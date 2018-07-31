@@ -1,0 +1,33 @@
+{
+    "class_id": "com-snaplogic-snaps-binary-binarysmbaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "GameStop-UAT"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "testSMB"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "domain": {
+                "value": null
+            },
+            "password": {
+                "fp": "6ee40d1e21a042b84c93f31348de32046e6f45aedc1a8432b9375a3a41069cc7",
+                "key": "account-cloud-managed-57632b6129eb6f36258be7e4-2016-06-16T22:43:28-697343",
+                "sym_iv": "PD71al9QiqsUBaHmIF5lew==",
+                "sym_key": "M6CKJAEP2EFZxscuX9TvCkSCXOLll+JmBRcbYT64jF87w1Pb9H2zq8uuUcak3mYnHRq7CdW04HOhRjdelZ4lvnwSGpPvKUMc56sFn0wAx7Iq1lpf+lgevKuCOM/HEbj8pQol1piJ2Y837HLcQUQVMdi/BjWHuMgYDWf9CbomEcUf1r5+07yyYmtViNoVJIdlgP0Zet3aYbU1GIbLcvDg8vCOuhHSU9ZF6WKJsNjoSqEDSrKF3okFnkmxAX0aNtEVmEVZR7ZuCKl7fXF30zGjcDQKC6BjQJW6t0ME0nTzvytWWYqbGAiOKfUbamn0X/35xczL4tjZ0RDzXiViC6BIdA==",
+                "value": "/tUK2UfYxNs6qTDQ+ufDwg=="
+            },
+            "username": {
+                "value": "flajdflaj"
+            }
+        },
+        "view_serial": 100
+    }
+}
